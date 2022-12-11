@@ -14,6 +14,7 @@ Abrir una ventana de terminal de comandos en ubuntu se puede hacer de varias for
         git version
         
 Comprueba que se ha instalado git.
+![imagen version git](https://github.com/RamsesOrtiz36/GIT-y-terminal/blob/main/Git%20version.png)
 
 + Para crear carpeta de repositorio local se usa.
 
@@ -45,7 +46,9 @@ Comprueba que se ha instalado git.
         git commit "primer commit local"
 
 
+Hay mas comandos y muchas veces los usuarios haces sus propias hojas de resumen de comandos (cheat sheets)
 
+![git cheat sheets](https://github.com/RamsesOrtiz36/GIT-y-terminal/blob/main/git-cheat-sheet-Rebellabs-1536x1086.png)
 
 
 
