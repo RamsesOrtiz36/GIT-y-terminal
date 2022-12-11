@@ -1,8 +1,19 @@
 # GIT-y-terminal
-Uso de Git para seguimiento de cambios en archivos de código de forma local, 
+Uso de Git para seguimiento de cambios en archivos de código de forma local, posteriormente se usan aplicaciones para vincular el programa de Git local con GitHub plataforma que ayuda a compartir y controlar de forma remota, o en la nube, a los repositorios (carpetas con archivos de codigo)
+
+Abrir una ventana de terminal de comandos en ubuntu se puede hacer de varias formas
+
+* Combinación de teclas **Alt+Ctrl+t**.
+* Clic derecho en el escritorio y seleccionar "Abrir en una terminal".
+* Buscar en la lista de aplicaciones (Los 9 puntos e la parte de abajo a la izquierda en la pantalla), una vez encontrada se recomienda anclarla en la barra de tareas.
+
 + En terminal introducir el siguiente codigo:
 
         sudo apt-get install git
+        
+        git version
+        
+Comprueba que se ha instalado git.
 
 + Para crear carpeta de repositorio local se usa.
 
